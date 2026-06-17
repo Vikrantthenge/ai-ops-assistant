@@ -5,7 +5,8 @@ could help with operational risk analysis and reporting — the kind of work
 that's normally done manually by reading incident logs and writing summaries
 for leadership.
 
-🔗 **Project showcase:** https://vikrantthenge.github.io/vikrant-portfolio/ai-ops-assistant-showcase.html
+🔗 **Project showcase:** https://vikrantthenge.github.io/
+ai-ops-assistant-showcase.html
 
 ## What it was
 
