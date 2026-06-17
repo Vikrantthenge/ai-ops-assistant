@@ -1,85 +1,51 @@
-# Vikrant Thenge
+# AI-Powered Operations Intelligence Assistant
 
-### Aviation Operations Leader → Operations Analytics & Decision Systems
+A local Generative AI assistant built to explore whether a self-hosted LLM
+could help with operational risk analysis and reporting — the kind of work
+that's normally done manually by reading incident logs and writing summaries
+for leadership.
 
-20+ years in airline and high-volume operations, now building analytics and decision-support tools that apply that operational experience to forecasting, KPI tracking, and performance monitoring.
+🔗 **Project showcase:** https://vikrantthenge.github.io/vikrant-portfolio/ai-ops-assistant-showcase.html
 
-[![Portfolio](https://img.shields.io/badge/Live_Portfolio-View_Project-3ED598?style=for-the-badge&logo=github)](https://vikrantthenge.github.io/vikrant-portfolio/)
-[![Resume](https://img.shields.io/badge/Resume-View_PDF-0A66C2?style=for-the-badge&logo=adobeacrobatreader)](Vikrant_Thenge_Operations_Analytics_Manager.pdf)
+## What it was
 
----
+A fully local AI pipeline — no cloud APIs, no external calls. Everything ran
+in Docker containers on my own machine:
 
-## ⚙️ What I Build
+- **Ollama** — running the LLM locally
+- **Open WebUI** — Docker-hosted chat interface to query the model
+- **Prompt engineering** — structured prompts for risk analysis, KPI
+  assessment, and executive-style summarization, built around aviation
+  safety and operational datasets
 
-Self-directed projects applying 20+ years of airline operations experience to modern analytics tooling:
+## Why I built it
 
-- Forecasting and capacity-planning models
-- KPI tracking and performance-monitoring dashboards
-- Reporting-automation workflows
-- Early-stage anomaly and risk-monitoring tools
+20+ years in airline operations means a lot of time spent reading incident
+reports, performance data, and audit notes, then turning that into a summary
+someone in leadership can actually use. I wanted to see how much of that
+first pass an LLM could realistically help with, running entirely on local
+hardware with no data leaving the device.
 
----
+## What happened
 
-## 🧩 Projects
+It worked — the model could take operational data and produce reasonable
+draft summaries and flag recurring patterns when prompted well. But running
+a local model alongside Docker and Open WebUI pushed past what my 8GB RAM
+laptop could handle at a usable speed, so I decommissioned the setup to free
+up the system. I don't have the original session logs or screenshots from
+that point — the showcase page describes the approach and architecture
+rather than reproducing a specific session.
 
-### Workforce & Capacity Forecasting
+## Stack
 
-Forecasting tool exploring proactive workforce and capacity planning, built on operational planning principles from airline scheduling.
+`Ollama` · `Docker` · `Open WebUI` · `Generative AI` · `Prompt Engineering`
 
-**Live demo:** [forecasting-demo.streamlit.app](https://forecasting-demo.streamlit.app/)  
-**Code:** [KPI-Risk-Tracker](https://github.com/Vikrantthenge/KPI-Risk-Tracker)
 
-### ⚠️ Operational Risk & Performance Monitoring
+## Background
 
-Dashboard prototype for tracking performance trends and surfacing early warning signals in operational data.
+Built by Vikrant Thenge, drawing on 20+ years in airline operations across All Nippon Airways, Garuda Indonesia, and Uganda Airlines, with a current focus on operations analytics and decision-support systems.
 
-**Code:** [Operational-Safety-Risk-Analytics](https://github.com/Vikrantthenge/Operational-Safety-Risk-Analytics-)
+[Portfolio](https://github.com/Vikrantthenge/vikrant-portfolio) ·
+[LinkedIn](https://www.linkedin.com/in/vthenge) ·
+[Email](mailto:vikrantthenge@outlook.com)
 
-### 🤖 AI-Powered Operations Intelligence Assistant
-
-Local Generative AI assistant using Ollama, Docker and Open WebUI to explore prompt-engineered workflows for operational risk analysis, KPI assessment and executive-style reporting.
-
-**Live showcase:** [View the GitHub Pages project](https://vikrantthenge.github.io/vikrant-portfolio/ai-ops-assistant-showcase.html)  
-**Project summary:** [Read the detailed project notes](4_Project_Summaries/AI-Powered-Operations-Intelligence-Assistant.md)
-
----
-
-## 🔄 Approach
-
-**Data → Models → Decision Tools**
-
-- **Data:** Operational, workforce, performance and cost data
-- **Models:** Forecasting, scenario planning and anomaly detection
-- **Tools:** Dashboards, monitoring prototypes and automation scripts
-
----
-
-## 🛠️ Tools & Technologies
-
-Python • SQL • Power BI • Streamlit • Excel • AWS • Docker • Generative AI
-
----
-
-## ✈️ Background
-
-20+ years in airline operations across All Nippon Airways, Garuda Indonesia and Uganda Airlines, covering flight operations, station management and network performance. FAA Flight Dispatch licensed. Currently applying that operational depth to analytics and decision-support tooling.
-
----
-
-## 🎯 Target Roles
-
-Operations Analytics Manager • Operations Excellence / Performance Manager • Supply Chain & Network Analytics
-
----
-
-## 📍 Location
-
-Mumbai • Pune • Bengaluru • Chennai • Pan India • Open to UAE, Qatar, Singapore and Europe
-
----
-
-## Connect
-
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/Vikrantthenge)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vthenge)
-[![Email](https://img.shields.io/badge/Email-Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook)](mailto:vikrantthenge@outlook.com)
