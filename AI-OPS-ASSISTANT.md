@@ -42,10 +42,11 @@ rather than reproducing a specific session.
 
 ## Background
 
-Built by Vikrant Thenge, drawing on 20+ years in airline operations (All
-Nippon Airways, Garuda Indonesia, Uganda Airlines) and a current focus on
-operations analytics.
+## Background
 
-[Portfolio](https://github.com/Vikrantthenge/vikrant-portfolio) ·
-[LinkedIn](https://www.linkedin.com/in/vthenge) ·
-[Email](mailto:vikrantthenge@outlook.com)
+Built by Vikrant Thenge, drawing on 20+ years in airline operations across All Nippon Airways, Garuda Indonesia, and Uganda Airlines, with a current focus on operations analytics and decision-support systems.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_Projects-24292F?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Vikrantthenge/vikrant-portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/vthenge)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-0078D4?style=for-the-badge\&logo=microsoftoutlook\&logoColor=white)](mailto:vikrantthenge@outlook.com)
+
